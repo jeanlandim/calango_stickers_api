@@ -8,6 +8,7 @@ django = "*"
 djangorestframework = "*"
 django-filters = "*"
 django-filter = "*"
+jsonrpcserver = "*"
 
 [dev-packages]
 
